@@ -1,4 +1,4 @@
-# Introduction for Overview
+# Introduction
 
 Writing is a complex process that involves creativity, critical thinking, and attention to detail. The AI Writing Genome explores the science of writing with machine learning, providing insights into how artificial intelligence (AI) technology can be used to enhance the writing process.
 
