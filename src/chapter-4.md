@@ -1,5 +1,3 @@
-Chapter 4: Challenges of AI Writing Genomes
-===========================================
 
 While AI writing genomes have the potential to revolutionize content creation, there are also challenges that need to be addressed to ensure their responsible and effective use. In this chapter, we will explore some of the key challenges associated with AI writing genomes.
 

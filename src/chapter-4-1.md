@@ -1,5 +1,3 @@
-Ethical Considerations
-===================================================================
 
 While AI writing genomes have many potential benefits, there are also ethical considerations that must be taken into account to ensure responsible and ethical use. In this chapter, we will explore some of the key ethical challenges associated with AI writing genomes.
 

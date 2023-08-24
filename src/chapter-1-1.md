@@ -1,5 +1,3 @@
-Overview of the Book
-=============================================
 
 In this book, we will explore the science of writing with machine learning and how businesses can leverage AI writing genomes to improve their content creation process. We will cover a range of topics related to AI writing genomes, including their historical development, different types, and how they work.
 

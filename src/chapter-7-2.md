@@ -1,5 +1,3 @@
-Ensuring Transparency and Accountability
-================================================================================
 
 As businesses increasingly rely on AI writing genomes to create content, it is important to ensure transparency and accountability in their use. In this chapter, we will discuss strategies for managing AI writing genomes to ensure transparency and accountability.
 

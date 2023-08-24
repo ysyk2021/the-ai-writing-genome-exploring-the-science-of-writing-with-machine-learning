@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-===========================================================================
 
 Implementing new technology like AI writing genomes can be met with resistance from employees who may be wary of change. In this chapter, we will discuss strategies for overcoming resistance to change when implementing AI writing genomes.
 

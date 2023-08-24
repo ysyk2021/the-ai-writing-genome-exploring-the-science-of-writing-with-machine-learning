@@ -1,5 +1,3 @@
-Types of AI Writing Genomes
-========================================================================
 
 AI writing genomes are a powerful tool for businesses looking to generate high-quality, engaging content. There are several different types of AI writing genomes, each with its own unique capabilities and applications. In this chapter, we will explore the different types of AI writing genomes.
 

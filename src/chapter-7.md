@@ -1,5 +1,3 @@
-Chapter 7: Managing AI Writing Genomes
-======================================
 
 Effective management of AI writing genomes is critical for their successful implementation. In this chapter, we will discuss strategies for managing AI writing genomes in a responsible and ethical manner.
 

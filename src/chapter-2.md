@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Writing Genomes
-===========================================
 
 AI writing genomes are a fascinating and rapidly evolving area of artificial intelligence. In this chapter, we will explore the different types of AI writing genomes, how they work, and their historical development.
 

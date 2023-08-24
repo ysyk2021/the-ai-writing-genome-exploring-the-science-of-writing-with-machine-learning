@@ -1,5 +1,3 @@
-Best Practices for Implementation
-=============================================================================
 
 Successful implementation of AI writing genomes requires careful planning and execution. In this chapter, we will discuss best practices for implementing AI writing genomes.
 

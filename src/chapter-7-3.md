@@ -1,5 +1,3 @@
-Addressing Potential Bias
-=================================================================
 
 AI writing genomes have the potential to perpetuate bias and discrimination if not used carefully. In this chapter, we will discuss strategies for addressing potential bias when using AI writing genomes.
 

@@ -1,5 +1,3 @@
-Content Generation
-=================================================================
 
 One of the most powerful applications of AI writing genomes is content generation. In this chapter, we will explore how AI writing genomes can be used to generate a wide range of content types.
 

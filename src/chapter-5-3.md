@@ -1,5 +1,3 @@
-Style Transfer and Adaptation
-============================================================================
 
 One of the most exciting applications of AI writing genomes is style transfer and adaptation. In this chapter, we will explore how AI writing genomes can be used to adapt writing styles and transfer them between different pieces of content.
 

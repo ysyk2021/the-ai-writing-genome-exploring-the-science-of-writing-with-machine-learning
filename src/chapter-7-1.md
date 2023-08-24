@@ -1,5 +1,3 @@
-Data Management
-=======================================================
 
 Effective data management is critical when using AI writing genomes. In this chapter, we will discuss strategies for managing data when implementing AI writing genomes.
 

@@ -1,5 +1,3 @@
-Privacy and Security Concerns
-==========================================================================
 
 While the potential benefits of AI writing genomes are significant, there are also challenges to consider, particularly in the areas of privacy and security. In this chapter, we'll explore some of the key privacy and security concerns related to AI writing genomes.
 

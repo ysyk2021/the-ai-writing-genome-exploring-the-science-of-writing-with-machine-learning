@@ -1,5 +1,3 @@
-Historical Overview of AI Writing Genomes
-======================================================================================
 
 AI writing genomes are a relatively new development in the field of artificial intelligence, but they build on a rich history of research and innovation. In this chapter, we will provide a historical overview of the development of AI writing genomes.
 

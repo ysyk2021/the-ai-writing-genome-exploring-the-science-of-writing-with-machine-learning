@@ -1,5 +1,3 @@
-Genre Analysis and Prediction
-============================================================================
 
 Genre analysis and prediction is a key application of AI writing genomes. In this chapter, we will explore how businesses can use AI writing genomes to identify the genre of a given text and predict the likelihood of it belonging to a particular genre.
 

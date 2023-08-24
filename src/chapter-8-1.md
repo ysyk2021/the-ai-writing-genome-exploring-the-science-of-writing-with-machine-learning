@@ -1,5 +1,3 @@
-Emerging Trends
-========================================================
 
 The future of AI writing genomes is rapidly evolving, with new technologies and applications emerging all the time. In this chapter, we'll explore some of the emerging trends in AI writing genomes and their potential impact on the field.
 

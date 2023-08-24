@@ -1,5 +1,3 @@
-How AI Writing Genomes Work
-========================================================================
 
 AI writing genomes are a powerful tool for businesses looking to generate high-quality, engaging content. In this chapter, we will explore how AI writing genomes work.
 
