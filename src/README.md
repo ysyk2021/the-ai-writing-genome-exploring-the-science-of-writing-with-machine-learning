@@ -8,3 +8,7 @@ The AI Writing Genome is designed for writers, researchers, and anyone intereste
 Overall, the goal of this book is to provide an understanding of how AI technology can be used to enhance the writing process. By exploring AI-powered techniques and strategies, writers can gain insights and ideas for integrating these technologies into their own creative processes, leading to more compelling and effective content. With the help of the AI Writing Genome, writers can unlock the science of writing with machine learning and achieve success in their writing endeavors.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
