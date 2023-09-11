@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our ongoing exploration of "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," we confront a crucial issue: addressing potential bias in AI writing genomes. This chapter delves into the challenges, strategies, and ethical considerations related to mitigating bias in AI-generated content.
 

@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Writing Genomes
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we continue our journey through "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," it is essential to understand the diverse landscape of AI writing genomes. These specialized systems come in various types, each tailored to specific writing tasks and domains. This chapter will explore the different types of AI writing genomes that have emerged.
 

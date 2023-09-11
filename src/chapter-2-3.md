@@ -1,5 +1,4 @@
-Chapter 3: How AI Writing Genomes Work
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our journey through "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," it is essential to understand the fundamental mechanisms that power AI writing genomes. These sophisticated systems are at the heart of AI-generated content and have revolutionized the writing process. This chapter will delve into the inner workings of AI writing genomes.
 

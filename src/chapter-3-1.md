@@ -1,5 +1,4 @@
-Chapter 3: Enhanced Understanding of Writing Patterns
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our exploration of the fascinating world of AI writing, we delve deeper into the concept of understanding writing patterns. This chapter aims to provide readers with insights into how machine learning techniques have revolutionized the way we comprehend and utilize these patterns for creative and functional writing.
 

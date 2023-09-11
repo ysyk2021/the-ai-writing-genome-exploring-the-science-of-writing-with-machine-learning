@@ -1,5 +1,4 @@
-Chapter 7: Style Transfer and Adaptation
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our exploration of "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," we delve into the fascinating world of style transfer and adaptation. This chapter explores the techniques and methods by which AI writing genomes can mimic and adapt to different writing styles, enabling versatility and creativity in content generation.
 

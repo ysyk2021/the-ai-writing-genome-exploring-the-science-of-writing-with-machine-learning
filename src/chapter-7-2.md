@@ -1,5 +1,4 @@
-Chapter 8: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our exploration of "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," we recognize the critical importance of transparency and accountability in the development and use of AI writing genomes. This chapter delves into the measures and principles that must be upheld to ensure responsible and ethical AI writing genome practices.
 

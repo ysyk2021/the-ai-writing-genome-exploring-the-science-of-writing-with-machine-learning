@@ -1,5 +1,4 @@
-Chapter 7: Genre Analysis and Prediction
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our continuing exploration of "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," we delve into the intriguing realm of genre analysis and prediction. This chapter examines how AI writing genomes can be trained to understand and predict different writing genres, opening up avenues for versatile and context-aware content generation.
 

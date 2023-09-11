@@ -1,5 +1,4 @@
-Chapter 10: Privacy and Security Concerns
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the exploration of the science of writing with machine learning within "The AI Writing Genome," it is essential to address the critical issues surrounding privacy and security. As AI writing technologies become increasingly prevalent, it is paramount to safeguard sensitive data, protect user information, and mitigate potential risks.
 

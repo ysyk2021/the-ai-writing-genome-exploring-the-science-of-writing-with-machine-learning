@@ -1,5 +1,4 @@
-Chapter 6: Increased Creativity and Innovation
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our ongoing exploration of "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," we venture into the realm of increased creativity and innovation made possible by AI writing genomes. This chapter delves into how these intelligent systems are fostering new levels of creativity and sparking innovative ideas across various domains.
 

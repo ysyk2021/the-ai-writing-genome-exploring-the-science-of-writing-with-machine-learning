@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical topic of overcoming resistance to change when exploring the science of writing with machine learning in "The AI Writing Genome." While the benefits of integrating machine learning into the writing process are profound, it's essential to address the challenges and resistance that can arise during this transformative journey.
 

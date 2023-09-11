@@ -1,5 +1,4 @@
-Chapter 6: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our exploration of the science of writing with machine learning, it is crucial to examine both the potential challenges and the abundant opportunities that arise from this transformative technology.
 

@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey of exploring the science of writing with machine learning within "The AI Writing Genome," it's imperative to examine the ethical considerations that arise when harnessing the power of artificial intelligence in the realm of writing.
 

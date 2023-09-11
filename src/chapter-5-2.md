@@ -1,5 +1,4 @@
-Chapter 5: Content Generation
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our journey through "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," we arrive at the heart of AI writing genomes---content generation. This chapter delves into the fascinating process by which these AI systems create written material, from simple sentences to complex documents, opening up new possibilities for creativity and productivity.
 

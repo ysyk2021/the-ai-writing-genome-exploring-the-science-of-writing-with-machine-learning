@@ -1,5 +1,4 @@
-Chapter 6: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our exploration of "The AI Writing Genome: Exploring the Science of Writing with Machine Learning," the significance of data management cannot be overstated. Effective data management is the bedrock upon which AI writing genomes are built and optimized. This chapter delves into the intricacies of managing data for AI writing genomes.
 

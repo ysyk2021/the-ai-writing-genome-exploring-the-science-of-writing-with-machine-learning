@@ -1,5 +1,4 @@
-Chapter 12: Legal Considerations
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we delve deeper into "The AI Writing Genome" and explore the science of writing with machine learning, it is essential to navigate the complex landscape of legal considerations. The use of AI in writing introduces a myriad of legal challenges that writers, businesses, and organizations must address to operate within the bounds of the law.
 
